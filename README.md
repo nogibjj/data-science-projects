@@ -1,25 +1,11 @@
-[![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Data Science Projects
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+## Life Expectency USA
 
-Things included are:
+* Ingest
 
-* `Makefile`
+[World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
 
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
-
+* EDA
+* Modeling
+* Conclusion
