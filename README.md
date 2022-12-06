@@ -17,6 +17,7 @@
 * [Inflation USA](https://www.aei.org/carpe-diem/chart-of-the-day-or-century-7/)
 * [Gun Violence](https://www.gunviolencearchive.org/)
 * [Property Crime](https://usafacts.org/articles/how-does-crime-compare-by-city-in-2021/?utm_source=Mailchimp&utm_medium=Email&utm_campaign=Dec-5-state-education-city-crime&utm_content=crime-city-image#carlsbad-california-had-the-highest-property-crime-rate-of-any-city-that-reported-to-the-fbi)
+* [chatGPT](https://chat.openai.com/chat)
 
 ### Images
 
