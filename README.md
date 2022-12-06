@@ -10,6 +10,50 @@
 * Modeling
 * Conclusion
 
+### What can we find out about these countries about these top 25 countries for Female Life Expectency
+
+#### Data To Collect
+
+* Gun Violence (Guns/Citizen)
+* Health Care (Is it universal healthcare)
+* Obesity (Median BMI?)
+* Drug Addition Rate
+* Traffic Accidents
+* Income Inequality (Gini coefficient)
+* Population Size
+* Education Level (Median Level)
+
+
+
+Country Name	2020
+96	Hong Kong SAR, China	88.000000
+119	Japan	87.740000
+146	Macao SAR, China	87.307000
+126	Korea, Rep.	86.500000
+208	Singapore	86.100000
+27	Bermuda	86.000000
+78	Faroe Islands	85.500000
+77	France	85.300000
+13	Australia	85.300000
+37	Switzerland	85.200000
+70	Spain	85.100000
+38	Channel Islands	85.031000
+75	Finland	85.000000
+177	Norway	84.900000
+115	Israel	84.800000
+116	Italy	84.700000
+159	Malta	84.600000
+114	Iceland	84.500000
+144	Luxembourg	84.200000
+223	Sweden	84.200000
+68	Euro area	84.188239
+194	Portugal	84.100000
+111	Ireland	84.100000
+180	New Zealand	83.900000
+35	Canada	83.900000
+
+
+
 
 ### References
 
